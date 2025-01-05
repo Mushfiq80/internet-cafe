@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/zFVpZZW/damian-zaleski-RYyr-k3-Ysqg-unsplash.jpg",
+      "title": "The Rise of Digital Nomads",
+      "author": "Alice Harper",
+      "author_img": "/public/images/boy1.png",
+      "posted_date": "2025-01-01",
+      "reading_time": "07 min read",
+      "hashtags": ["#DigitalNomads", "#RemoteWork", "#FutureOfWork"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/GFFtjky/ian-schneider-Tam-Mbr4okv4-unsplash.jpg",
+      "title": "Unlocking the Secrets of the Ocean",
+      "author": "Dr. James Lawson",
+      "author_img": "/public/images/boy2.png",
+      "posted_date": "2024-12-25",
+      "reading_time": "10 min read",
+      "hashtags": ["#MarineBiology", "#OceanConservation", "#DeepSea"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/WnstnCr/jess-bailey-Bg3qk-PDpop-Y-unsplash.jpg",
+      "title": "The Art of Mindful Living",
+      "author": "Sophia Chen",
+      "author_img": "/public/images/girl1.jpg",
+      "posted_date": "2025-01-03",
+      "reading_time": "05 min read",
+      "hashtags": ["#Mindfulness", "#SelfCare", "#Wellbeing"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/0tqb45z/thought-catalog-505eect-W54k-unsplash.jpg",
+      "title": "AI Revolution in Healthcare",
+      "author": "Rahul Kapoor",
+      "author_img": "/public/images/girl2.jpg",
+      "posted_date": "2025-01-02",
+      "reading_time": "08 min read",
+      "hashtags": ["#AI", "#Healthcare", "#Innovation"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/94xph6w/unseen-studio-s9-CC2-SKy-SJM-unsplash.jpg",
+      "title": "Exploring the Cosmos: A Beginner's Guide",
+      "author": "Emily Grant",
+      "author_img": "/public/images/profilepic.jpg",
+      "posted_date": "2024-12-30",
+      "reading_time": "12 min read",
+      "hashtags": ["#Astronomy", "#SpaceExploration", "#Cosmos"]
+    }
+  ]
+  
